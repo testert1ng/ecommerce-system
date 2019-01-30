@@ -69,7 +69,7 @@ This is about the interaction of different parts of "MVC" structure.
 [ECommerce](./ECommerce) is the front-end component running on one server.
 [Shipping](./Shipping) is the Shipping component running on another server.
 
-PLEASE RUN THE [database.sql](./ecommerce.sql) FIRST TO INITIALIZE THE DATABASE.
+PLEASE RUN THE [ecommerce.sql](./ecommerce.sql) FIRST TO INITIALIZE THE DATABASE.
 
 The database has three users:
 
