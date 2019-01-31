@@ -1,4 +1,4 @@
-<Context path="/WebAssignment2">
+<Context path="/ECommerce">
     <Resource name="jdbc/Ecommence"
               type="javax.sql.DataSource"
               username="root"

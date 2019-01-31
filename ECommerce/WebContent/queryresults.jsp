@@ -15,7 +15,7 @@
 	<div id="wrap">
 
 		<div id="header">
-			<h1>COMP5347 Assignment 2</h1>
+			<h1>ECommerce System</h1>
 			<h2>Query results page</h2>
 		</div>
 
