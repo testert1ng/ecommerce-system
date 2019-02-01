@@ -66,8 +66,9 @@ This is about the interaction of different parts of "MVC" structure.
 
 ## 0x06 Folder Structure and Usage Instraction
 
-[ECommerce](./ECommerce) is the front-end component running on one server.
-[Shipping](./Shipping) is the Shipping component running on another server.
+- [ECommerce](./ECommerce) is the front-end component running on one server.
+
+- [Shipping](./Shipping) is the Shipping component running on another server.
 
 PLEASE RUN THE [ecommerce.sql](./ecommerce.sql) FIRST TO INITIALIZE THE DATABASE.
 
