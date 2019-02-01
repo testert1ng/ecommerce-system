@@ -38,7 +38,7 @@ public class ShippingComponent {
 		System.out.println("receiving order");
 		try {
 			InputStream is = new FileInputStream(
-					"/usr/local/apache-tomcat-7.0.52/webapps/WebAssignment2Shiping/WEB-INF/classes/costSheet.xml");
+					"/usr/local/apache-tomcat-7.0.52/webapps/Shipping/WEB-INF/classes/costSheet.xml");
 			DocumentBuilder db = DocumentBuilderFactory.newInstance()
 					.newDocumentBuilder();
 			Document doc = db.parse(is);

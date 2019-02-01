@@ -200,7 +200,7 @@ public class OrderAction extends ActionSupport implements SessionAware {
 	
 	private static URI getBaseURI() {
 		return UriBuilder
-				.fromUri("http://127.0.0.1:8090/WebAssignment2Shiping").build();
+				.fromUri("http://127.0.0.1:8090/Shipping").build();
 	}
 	
 	
